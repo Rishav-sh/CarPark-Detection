@@ -70,7 +70,16 @@ cap = cv2.VideoCapture(0)
 |--------------|----------------|
 | 🟩 Green box | 🟥 Red box |
 
-🖼️ **Add your project screenshot below:**  
+<p align="center">
+<img src="https://img.shields.io/github/stars/Rishav-sh/CarPark-Detection?style=social" />
+<img src="https://img.shields.io/github/forks/Rishav-sh/CarPark-Detection?style=social" />
+<img src="https://img.shields.io/github/license/Rishav-sh/CarPark-Detection" />
+<img src="https://img.shields.io/github/last-commit/Rishav-sh/CarPark-Detection" />
+</p>
+
+
+🖼️ **Output Screenshot:**
+![Output Screenshot](output.png)
 
 ## 🔮 Future Improvements
 
